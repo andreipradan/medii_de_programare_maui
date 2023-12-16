@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pradan_Andrei_Lab7
+build_property.ProjectDir = /Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/
+
+[/Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pradan_Andrei_Lab7.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
+[/Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pradan_Andrei_Lab7.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pradan_Andrei_Lab7.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pradan_Andrei_Lab7.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pradan_Andrei_Lab7.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/d695960/personal/facultate/mp/medii_de_programare_maui/Pradan_Andrei_Lab7/Pradan_Andrei_Lab7/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Pradan_Andrei_Lab7.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
