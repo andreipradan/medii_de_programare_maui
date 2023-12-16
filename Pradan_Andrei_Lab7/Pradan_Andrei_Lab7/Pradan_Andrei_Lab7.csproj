@@ -53,12 +53,24 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="sqlite-net-pcl" Version="1.8.116" />
+		<PackageReference Include="SQLitePCLRaw.provider.dynamic_cdecl" Version="2.1.7" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\shop_list.jpg" />
+	  <None Remove="Resources\Images\profile.png" />
+	  <None Remove="Models\" />
+	  <None Remove="Resources\.DS_Store" />
+	  <None Remove="Data\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <BundleResource Include="Resources\Images\shop_list.jpg" />
+	  <BundleResource Include="Resources\Images\profile.png" />
+	  <BundleResource Include="Resources\.DS_Store" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Models\" />
+	  <Folder Include="Data\" />
 	</ItemGroup>
 </Project>
