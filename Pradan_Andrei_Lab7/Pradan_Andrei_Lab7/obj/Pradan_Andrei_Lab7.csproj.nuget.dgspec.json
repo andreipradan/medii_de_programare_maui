@@ -74,6 +74,10 @@
               "version": "[7.0.101, )",
               "autoReferenced": true
             },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "SQLitePCLRaw.provider.dynamic_cdecl": {
               "target": "Package",
               "version": "[2.1.7, )"
@@ -195,6 +199,10 @@
               "version": "[7.0.101, )",
               "autoReferenced": true
             },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
             "SQLitePCLRaw.provider.dynamic_cdecl": {
               "target": "Package",
               "version": "[2.1.7, )"
@@ -260,6 +268,10 @@
               "target": "Package",
               "version": "[7.0.101, )",
               "autoReferenced": true
+            },
+            "SQLiteNetExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
             },
             "SQLitePCLRaw.provider.dynamic_cdecl": {
               "target": "Package",
