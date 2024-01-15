@@ -1,43 +1,21 @@
 ﻿<Properties StartupConfiguration="{414EC537-B534-44EC-B34A-E199CD531403}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
-  <MonoDevelop.Ide.ItemProperties.Pradan__Andrei__Lab7 PreferredExecutionTarget="Android.pixel_5_-_api_33" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pradan_Andrei_Lab7/ProductPage.xaml">
-    <Files>
-      <File FileName="Pradan_Andrei_Lab7/MainPage.xaml" />
-      <File FileName="Pradan_Andrei_Lab7/ListEntryPage.xaml" Line="21" Column="1" />
-      <File FileName="Pradan_Andrei_Lab7/ListPage.xaml" Line="11" Column="24" />
-      <File FileName="Pradan_Andrei_Lab7/App.xaml.cs" Line="10" Column="40" />
-      <File FileName="Pradan_Andrei_Lab7/Models/ShopList.cs" />
-      <File FileName="Pradan_Andrei_Lab7/MauiProgram.cs" />
-      <File FileName="Pradan_Andrei_Lab7/App.xaml" />
-      <File FileName="Pradan_Andrei_Lab7/AppShell.xaml" />
-      <File FileName="Pradan_Andrei_Lab7/AppShell.xaml.cs" />
-      <File FileName="Pradan_Andrei_Lab7/MainPage.xaml.cs" />
-      <File FileName="Pradan_Andrei_Lab7/AboutPage.xaml.cs" />
-      <File FileName="Pradan_Andrei_Lab7/ListEntryPage.xaml.cs" />
-      <File FileName="Pradan_Andrei_Lab7/ListPage.xaml.cs" Line="16" Column="6" />
-      <File FileName="Pradan_Andrei_Lab7/Models/Product.cs" />
-      <File FileName="Pradan_Andrei_Lab7/Models/ListProduct.cs" />
-      <File FileName="Pradan_Andrei_Lab7/ProductPage.xaml" Line="34" Column="22" />
-      <File FileName="Pradan_Andrei_Lab7/ProductPage.xaml.cs" Line="24" Column="27" />
-      <File FileName="Pradan_Andrei_Lab7/Data/ShoppingListDatabase.cs" Line="79" Column="10" />
-      <File FileName="Pradan_Andrei_Lab7/ValidationBehaviour.cs" Line="25" Column="1" />
-    </Files>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Pradan_Andrei_Lab7" expanded="True">
-            <Node name="Pradan_Andrei_Lab7">
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="ListEntryPage.xaml" expanded="True" />
+          <Node name="Pradan_Andrei_Lab7">
+            <Node name="Pradan_Andrei_Lab7" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="ShoppingListDatabase.cs" selected="True" />
+              </Node>
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
               <Node name="ListPage.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="ProductPage.xaml" expanded="True" />
+              <Node name="ShopEntryPage.xaml" expanded="True" />
+              <Node name="ShopPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -47,5 +25,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pradan__Andrei__Lab7 PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
 </Properties>

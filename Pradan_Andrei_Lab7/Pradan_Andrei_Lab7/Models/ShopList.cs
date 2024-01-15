@@ -1,5 +1,7 @@
 ﻿using System;
 using SQLite;
+using SQLiteNetExtensions.Attributes;
+
 namespace Pradan_Andrei_Lab7.Models
 {
 	public class ShopList
@@ -9,5 +11,7 @@ namespace Pradan_Andrei_Lab7.Models
         [MaxLength(250), Unique]
         public string Description { get; set; }
         public DateTime Date { get; set; }
+        [ForeignKey(typeof(Shop))]
+        public int ShopID { get; set; }
     }
 }
